@@ -1,0 +1,6 @@
+{
+  "name": "Farmer Mobile Companion",
+  "description": "A comprehensive mobile workspace for farmers to schedule and receive reminders for agriculture, livestock, produce sales, water lorry rentals, and household bills, complete with an AI farming advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
